@@ -61,7 +61,8 @@ int main(void)
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/778fb654-1edd-4c46-a9dd-c3437e887871)
+![image](https://github.com/user-attachments/assets/f2037eca-349c-4f3d-b48e-e2b1a1c942d7)
+
 
 ## Result:
 Thus, the C program to represent the given graph using the adjacency list is implemented successfully
